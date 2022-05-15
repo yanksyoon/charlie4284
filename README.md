@@ -83,7 +83,7 @@ func main() {
 	user := profile{
 		name:      "YangSoo Yoon",
 		countries: []string{"🇰🇷", "🇸🇰", "🇭🇰"},
-		teams:     []string{"Dayta AI(Head software engineer)", "Sooldamhwa", "SpeechX", "..."},
+		teams:     []string{"Dayta AI(Head software engineer)", "Sooldamhwa", "SpeechX", "Pixpot", "..."},
 	}
 }
 ```
